@@ -1,0 +1,2 @@
+# Decker
+Practica algoritmo decker
